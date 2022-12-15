@@ -1,0 +1,45 @@
+C:\Users\acer\Desktop\dasar dasar pemograman4\bin\Debug\net6.0\dasar dasar pemograman4.exe
+C:\Users\acer\Desktop\dasar dasar pemograman4\bin\Debug\net6.0\dasar dasar pemograman4.deps.json
+C:\Users\acer\Desktop\dasar dasar pemograman4\bin\Debug\net6.0\dasar dasar pemograman4.runtimeconfig.json
+C:\Users\acer\Desktop\dasar dasar pemograman4\bin\Debug\net6.0\dasar dasar pemograman4.dll
+C:\Users\acer\Desktop\dasar dasar pemograman4\bin\Debug\net6.0\dasar dasar pemograman4.pdb
+C:\Users\acer\Desktop\dasar dasar pemograman4\obj\Debug\net6.0\dasar dasar pemograman4.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\dasar dasar pemograman4\obj\Debug\net6.0\dasar dasar pemograman4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\dasar dasar pemograman4\obj\Debug\net6.0\dasar dasar pemograman4.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\dasar dasar pemograman4\obj\Debug\net6.0\dasar dasar pemograman4.AssemblyInfo.cs
+C:\Users\acer\Desktop\dasar dasar pemograman4\obj\Debug\net6.0\dasar dasar pemograman4.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\dasar dasar pemograman4\obj\Debug\net6.0\dasar dasar pemograman4.dll
+C:\Users\acer\Desktop\dasar dasar pemograman4\obj\Debug\net6.0\refint\dasar dasar pemograman4.dll
+C:\Users\acer\Desktop\dasar dasar pemograman4\obj\Debug\net6.0\dasar dasar pemograman4.pdb
+C:\Users\acer\Desktop\dasar dasar pemograman4\obj\Debug\net6.0\dasar dasar pemograman4.genruntimeconfig.cache
+C:\Users\acer\Desktop\dasar dasar pemograman4\obj\Debug\net6.0\ref\dasar dasar pemograman4.dll
+C:\Users\acer\Desktop\DasPro04\bin\Debug\net6.0\dasar dasar pemograman4.exe
+C:\Users\acer\Desktop\DasPro04\bin\Debug\net6.0\dasar dasar pemograman4.deps.json
+C:\Users\acer\Desktop\DasPro04\bin\Debug\net6.0\dasar dasar pemograman4.runtimeconfig.json
+C:\Users\acer\Desktop\DasPro04\bin\Debug\net6.0\dasar dasar pemograman4.dll
+C:\Users\acer\Desktop\DasPro04\bin\Debug\net6.0\dasar dasar pemograman4.pdb
+C:\Users\acer\Desktop\DasPro04\obj\Debug\net6.0\dasar dasar pemograman4.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\DasPro04\obj\Debug\net6.0\dasar dasar pemograman4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\DasPro04\obj\Debug\net6.0\dasar dasar pemograman4.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\DasPro04\obj\Debug\net6.0\dasar dasar pemograman4.AssemblyInfo.cs
+C:\Users\acer\Desktop\DasPro04\obj\Debug\net6.0\dasar dasar pemograman4.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\DasPro04\obj\Debug\net6.0\dasar dasar pemograman4.dll
+C:\Users\acer\Desktop\DasPro04\obj\Debug\net6.0\refint\dasar dasar pemograman4.dll
+C:\Users\acer\Desktop\DasPro04\obj\Debug\net6.0\dasar dasar pemograman4.pdb
+C:\Users\acer\Desktop\DasPro04\obj\Debug\net6.0\dasar dasar pemograman4.genruntimeconfig.cache
+C:\Users\acer\Desktop\DasPro04\obj\Debug\net6.0\ref\dasar dasar pemograman4.dll
+C:\Users\acer\Documents\Tugas DasPro\DasPro04\bin\Debug\net6.0\dasar dasar pemograman4.exe
+C:\Users\acer\Documents\Tugas DasPro\DasPro04\bin\Debug\net6.0\dasar dasar pemograman4.deps.json
+C:\Users\acer\Documents\Tugas DasPro\DasPro04\bin\Debug\net6.0\dasar dasar pemograman4.runtimeconfig.json
+C:\Users\acer\Documents\Tugas DasPro\DasPro04\bin\Debug\net6.0\dasar dasar pemograman4.dll
+C:\Users\acer\Documents\Tugas DasPro\DasPro04\bin\Debug\net6.0\dasar dasar pemograman4.pdb
+C:\Users\acer\Documents\Tugas DasPro\DasPro04\obj\Debug\net6.0\dasar dasar pemograman4.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\Tugas DasPro\DasPro04\obj\Debug\net6.0\dasar dasar pemograman4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Documents\Tugas DasPro\DasPro04\obj\Debug\net6.0\dasar dasar pemograman4.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\Tugas DasPro\DasPro04\obj\Debug\net6.0\dasar dasar pemograman4.AssemblyInfo.cs
+C:\Users\acer\Documents\Tugas DasPro\DasPro04\obj\Debug\net6.0\dasar dasar pemograman4.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Tugas DasPro\DasPro04\obj\Debug\net6.0\dasar dasar pemograman4.dll
+C:\Users\acer\Documents\Tugas DasPro\DasPro04\obj\Debug\net6.0\refint\dasar dasar pemograman4.dll
+C:\Users\acer\Documents\Tugas DasPro\DasPro04\obj\Debug\net6.0\dasar dasar pemograman4.pdb
+C:\Users\acer\Documents\Tugas DasPro\DasPro04\obj\Debug\net6.0\dasar dasar pemograman4.genruntimeconfig.cache
+C:\Users\acer\Documents\Tugas DasPro\DasPro04\obj\Debug\net6.0\ref\dasar dasar pemograman4.dll

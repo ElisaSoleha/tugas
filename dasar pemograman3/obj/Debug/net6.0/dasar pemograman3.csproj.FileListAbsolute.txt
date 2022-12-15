@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\dasar pemograman3\bin\Debug\net6.0\dasar pemograman3.exe
+C:\Users\acer\Desktop\dasar pemograman3\bin\Debug\net6.0\dasar pemograman3.deps.json
+C:\Users\acer\Desktop\dasar pemograman3\bin\Debug\net6.0\dasar pemograman3.runtimeconfig.json
+C:\Users\acer\Desktop\dasar pemograman3\bin\Debug\net6.0\dasar pemograman3.dll
+C:\Users\acer\Desktop\dasar pemograman3\bin\Debug\net6.0\dasar pemograman3.pdb
+C:\Users\acer\Desktop\dasar pemograman3\obj\Debug\net6.0\dasar pemograman3.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\dasar pemograman3\obj\Debug\net6.0\dasar pemograman3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\dasar pemograman3\obj\Debug\net6.0\dasar pemograman3.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\dasar pemograman3\obj\Debug\net6.0\dasar pemograman3.AssemblyInfo.cs
+C:\Users\acer\Desktop\dasar pemograman3\obj\Debug\net6.0\dasar pemograman3.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\dasar pemograman3\obj\Debug\net6.0\dasar pemograman3.dll
+C:\Users\acer\Desktop\dasar pemograman3\obj\Debug\net6.0\refint\dasar pemograman3.dll
+C:\Users\acer\Desktop\dasar pemograman3\obj\Debug\net6.0\dasar pemograman3.pdb
+C:\Users\acer\Desktop\dasar pemograman3\obj\Debug\net6.0\dasar pemograman3.genruntimeconfig.cache
+C:\Users\acer\Desktop\dasar pemograman3\obj\Debug\net6.0\ref\dasar pemograman3.dll

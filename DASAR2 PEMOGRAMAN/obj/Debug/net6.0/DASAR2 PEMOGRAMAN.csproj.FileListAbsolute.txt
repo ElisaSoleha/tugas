@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\DASAR2 PEMOGRAMAN\obj\Debug\net6.0\DASAR2 PEMOGRAMAN.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\DASAR2 PEMOGRAMAN\obj\Debug\net6.0\DASAR2 PEMOGRAMAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\DASAR2 PEMOGRAMAN\obj\Debug\net6.0\DASAR2 PEMOGRAMAN.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\DASAR2 PEMOGRAMAN\obj\Debug\net6.0\DASAR2 PEMOGRAMAN.AssemblyInfo.cs
+C:\Users\acer\Desktop\DASAR2 PEMOGRAMAN\obj\Debug\net6.0\DASAR2 PEMOGRAMAN.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\DASAR2 PEMOGRAMAN\bin\Debug\net6.0\DASAR2 PEMOGRAMAN.exe
+C:\Users\acer\Desktop\DASAR2 PEMOGRAMAN\bin\Debug\net6.0\DASAR2 PEMOGRAMAN.deps.json
+C:\Users\acer\Desktop\DASAR2 PEMOGRAMAN\bin\Debug\net6.0\DASAR2 PEMOGRAMAN.runtimeconfig.json
+C:\Users\acer\Desktop\DASAR2 PEMOGRAMAN\bin\Debug\net6.0\DASAR2 PEMOGRAMAN.dll
+C:\Users\acer\Desktop\DASAR2 PEMOGRAMAN\bin\Debug\net6.0\DASAR2 PEMOGRAMAN.pdb
+C:\Users\acer\Desktop\DASAR2 PEMOGRAMAN\obj\Debug\net6.0\DASAR2 PEMOGRAMAN.dll
+C:\Users\acer\Desktop\DASAR2 PEMOGRAMAN\obj\Debug\net6.0\refint\DASAR2 PEMOGRAMAN.dll
+C:\Users\acer\Desktop\DASAR2 PEMOGRAMAN\obj\Debug\net6.0\DASAR2 PEMOGRAMAN.pdb
+C:\Users\acer\Desktop\DASAR2 PEMOGRAMAN\obj\Debug\net6.0\DASAR2 PEMOGRAMAN.genruntimeconfig.cache
+C:\Users\acer\Desktop\DASAR2 PEMOGRAMAN\obj\Debug\net6.0\ref\DASAR2 PEMOGRAMAN.dll

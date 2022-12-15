@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DASAR2 PEMOGRAMAN/1.0.0": {
+        "runtime": {
+          "DASAR2 PEMOGRAMAN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DASAR2 PEMOGRAMAN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
