@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+        <title>ToDo App VueJS</title>
+    </head>
+    <body>
+        <div id="app">
+            <p>{{nama}}</p>
+            <p v-if="nama=='Dasar Pemograman'?false:true" >Mata Kuliah berhasil diubah!</p>
+            <button v-on:click="ubahnama">Ubah Nama MK</button>
+            <P></P>
+            <form v-on:submit.prevent="addNewTodo">
+                <button>Tambah List MK</button>
+                <input
+                    v-model="newToDoText"
+                    id="new-todo">
+            </form>
+            <ul>
+                <li
+                    is="todo-item"
+                    v-for="(todo, index) in todos"
+                    v-bind:key="todo.id"
+                    v-bind:title="todo.title" 
+                    v-on:remove="todos.splice(index, 1)">
+                </li>
+            </ul>
+        </div>
+        <script>
+            Vue.component("todo-item",{
+                template:
+                "\
+                <li>\
+                    {{title}}\
+                        <button v-on:click=\"$emit('remove')\">Remove</button>\</li>\
+                        ",
+                        props:["title"]
+            })
+            new Vue({
+                el:"#app",
+                data:{
+                    newToDoText:"",
+                    todos:[
+                        {
+                            id:1,
+                            title:"Basis Data",
+                        },
+                        {
+                            id :2,
+                            title:"Pemograman Mobile",
+                        },
+                    ],
+                    newToDoId:3,
+                    nama:"Dasar Pemograman",
+                    matkul:[]
+                },     
+                    methods:{
+                        ubahnama : function(){
+                        this.nama ="Basis Data";
+                     },
+                     addNewTodo:function(){
+                        this.todos.push({
+                            id: this.nextToDoId++, title: this.newToDoText,
+                        }),
+                        this.newToDoText="";
+                    },
+                 },
+            });
+        </script>
+    </body>
+</html>
