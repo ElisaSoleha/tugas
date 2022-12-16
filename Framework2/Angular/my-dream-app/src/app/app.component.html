@@ -1,0 +1,7 @@
+
+  <p>
+    Selamat data di kelas {{matakuliah}}!
+  </p>
+  <p *ngIf="matakuliah != 'Pemongraman Framework'">Mata Kuliah Diganti</p>
+  <button (click)="onChangeMataKuliah()">Ganti Mata Kuliah</button>
+
